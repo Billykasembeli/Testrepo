@@ -17,4 +17,4 @@ plot(x, y,
      ylab = "Y Values", 
      pch = 19,         # Use solid circles for points
      col = "blue")     # Make the points blue
-
+#Hi there
